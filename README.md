@@ -58,10 +58,12 @@ Update the database connection configuration in src/config/database.ts to match 
    
 
 
-5. Start the server:
+5. Install dependencies:
 
-```bash 
-npm run start
+   ```bash
+   npm run start
+   
+
 
 
 The server will start running on http://localhost:3000.
