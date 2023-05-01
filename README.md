@@ -34,7 +34,7 @@ Before running this project, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Amorii1/Maslahtech.git
+   git clone https://github.com/Amorii1/Freelancing_Platform.git
    
 
 
