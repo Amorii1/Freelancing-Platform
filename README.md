@@ -42,7 +42,8 @@ Before running this project, ensure you have the following installed:
   ```bash
   cd Maslahtech
   npm install
-  
+
+
 3. Set up the database:
 
 Create a PostgreSQL database with the name freelancing_platform.
@@ -53,10 +54,12 @@ Update the database connection configuration in src/config/database.ts to match 
 ```bash
 npm run migration:run
 
+
 5. Start the server:
 
 ```bash 
 npm run start
+
 
 The server will start running on http://localhost:3000.
 
