@@ -40,10 +40,10 @@ Before running this project, ensure you have the following installed:
 
 2. Install dependencies:
 
-  ```bash
-  cd Maslahtech
-  npm install
-  
+   ```bash
+   cd Maslahtech
+   npm install
+   
 
 
 3. Set up the database:
