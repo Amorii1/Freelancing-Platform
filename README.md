@@ -37,11 +37,13 @@ Before running this project, ensure you have the following installed:
    git clone https://github.com/Amorii1/Maslahtech.git
    
 
+
 2. Install dependencies:
 
   ```bash
   cd Maslahtech
   npm install
+  
 
 
 3. Set up the database:
@@ -51,8 +53,9 @@ Update the database connection configuration in src/config/database.ts to match 
 
 4. Run database migrations:
 
-```bash
-npm run migration:run
+   ```bash
+   npm run migration:run
+   
 
 
 5. Start the server:
