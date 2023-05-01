@@ -83,4 +83,4 @@ This project is licensed under the MIT License.
 - [Express.js Documentation](https://expressjs.com/)
 - [Socket.io Documentation](https://socket.io/docs/)
 - [JWT Documentation](https://jwt.io/introduction)
-- Special thanks to the [Open Source community](https://github.com) for their invaluable contributions.
+
