@@ -1,6 +1,6 @@
 # Freelancing Platform API
 
-This is a personal project of a freelancing platform built with TypeORM, Node.js, and TypeScript. It provides a platform for freelancers and clients to connect and collaborate on various projects.
+This is a personal Open-Source project of a freelancing platform built with TypeORM, Node.js, and TypeScript. It provides a platform for freelancers and clients to connect and collaborate on various projects.
 
 ## Features
 
